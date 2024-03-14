@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BALLON D"OR 2023 </string>
+
+    <string name="search_player">Cari Player</string>
+    <string name="no_data">Tidak Ditemukan</string>
+    <string name="no_internet">koneksi bermasalah</string>
+</resources>
